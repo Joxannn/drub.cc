@@ -1,0 +1,2 @@
+# drub.cc
+strona durba
